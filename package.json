@@ -1,0 +1,21 @@
+{
+  "name": "nodejsmongod",
+  "version": "1.0.0",
+  "description": "An Demo MongoDB NodeJS Application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Mongod",
+    "nodejs",
+    "restful",
+    "api",
+    "json"
+  ],
+  "author": "Balaji N",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
